@@ -7,6 +7,7 @@ Created on Oct 16, 2012
 import numpy as np
 from grid_filter_gl import *
 
+
 init_window(100,100)
 
 grid = np.array(np.mat('1 0; 0 1'), ndmin=2)

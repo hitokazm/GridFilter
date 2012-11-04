@@ -21,8 +21,6 @@ def update_grid(new_grid):
     global grid
     grid = new_grid
 
-
-
 def init_window(width, height):
     global window
     global grid
